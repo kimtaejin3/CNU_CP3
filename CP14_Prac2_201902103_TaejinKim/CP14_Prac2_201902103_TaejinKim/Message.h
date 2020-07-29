@@ -1,0 +1,7 @@
+#define MSG_StartPerformanceMeasuring "<<< 성능 측정을 시작합니다 >>>\n"
+#define MSG_EndPerformanceMeasuring "\n<<< 성능 측정을 종료합니다 >>>\n"
+#define MSG_TitleForUnsortedArrayDictionary "\"Unsorted Array Dictionary\"의 성능 (단위:마이크로 초)\n"
+#define MSG_TitleForSortedArrayDictionary "\"Sorted Array Dictionary\"의 성능 (단위: 마이크로 초)\n"
+#define MSG_TitleForUnsortedLinkedDictionary "\"Unsorted Linked Dictionary\"의 성능 (단위:마이크로 초)\n"
+#define MSG_TitleForSortedLinkedDictionary "\"Sorted Linked Dictionary\"의 성능 (단위: 마이크로 초)\n"
+#define MSG_TitleForBinarySearchTree "\"BinarySearchTree Dictionary\"의 성능 (단위: 마이크로 초)\n"
